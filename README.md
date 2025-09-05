@@ -1,3 +1,17 @@
+# ALX Listing App
+
+## Description 
+
+A brief description of the project and its goals (e.g., creating an Airbnb clone listing page).
+
+## Project Structure 
+A brief explanation of the project structure, including the purpose of the components/, interfaces/, constants/, and public/assets directories.
+
+
+## Guide on how to run the project locally
+Instructions on how to run the project locally, including installing dependencies and running the development server (npm run dev).
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
